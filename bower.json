@@ -1,0 +1,17 @@
+{
+    "name": "pecita-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Phillipe Cochy"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/pecita-bower.git"
+    },
+    "description": "Pecita font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
